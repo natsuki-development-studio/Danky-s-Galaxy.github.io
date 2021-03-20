@@ -53,15 +53,22 @@
         <a href="about.html" class="button1" style="color:black;">About</a>
         <a href="sc.html" class="button1" style="color:black;">Skripts</a>
         <a href="https://discord.dank-galaxy.net/" class="button1" style="color:black;">Discord</a>
-        <a href="betaskripts/login.html" class="button1" style="color:black;">Login</a>
-    </div>
+    </div> 
        <center>
-           <h1 style="color:white;"><strong><em><font size="+5">www.danky.dev</font></em></strong></h1>
-           <br>
-           <br>
-           <br>
-           <a href="pindex.html" class="button2" style="color:black;">Shop</a>
-           <a href="sc.html" class="button2" style="color:black;">Skripts</a><br><br><br><br><br><br><br><br>
-<a class="button2"  href="https://www.patreon.com/bePatron?u=51454226" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js%22%3E</script>
+           <h1 style="color:white;"><font size="+6">Skripts</font></h1> <br>
+           <h2 style="color:white;"><font size="+3"><em>Nothing currently...</em></font></h2><br> <br> <br> <br> <br> <br>
+           <h1> You must agree to the TOS and EULA here: </h1>
+           <p> 
        </center>
-  </html>
+Terms of Service and End-User License Agreement for Skript ownership
+
+By downloading scripts, you are agreeing with the following statements:
+
+All scripts must be kept with the origin purchaser and shall never be redistributed, resold or taken as ones own.
+
+All Skripts must not be modified past where the owner has stated, You may configure variable names, and text color but never you are able to remove, add, change or copy any commands, events mentioned in the skript.
+
+All scripts should keep its original name, purpose and shall not be used for malicious purposes (if any.)
+
+In any case that one of these terms are broken,  we shall have full permission to revoke the license of ownership to the scripts and you must comply with the removal of them.
+
